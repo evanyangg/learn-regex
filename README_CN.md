@@ -19,8 +19,8 @@
 
 ## 目录
 
-- [基本匹配](#1-basic-matchers)
-- [元字符](#2-meta-characters)
+- [基本匹配](#1-基础匹配)
+- [元字符](#2-元字符)
   - [Full stop](#21-full-stop)
   - [Character set](#22-character-set)
     - [Negated character set](#221-negated-character-set)
